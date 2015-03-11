@@ -23,7 +23,7 @@ div {
     width: 50%;
 }
 #table {
-    float: left;
+    float: right;
     width: 44%;
     background-color: aliceblue;
 }
@@ -42,6 +42,7 @@ tr {
 #information {
     margin-left: 25px;
     width: 50%;
+    float: left;
 }
 #information p {
     margin-left: 40px;
